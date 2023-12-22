@@ -43,8 +43,8 @@ tagged as favorite)
 </p>
 <p style=float:left">
   <img src="Favorite_book.png" width="200" />
-  <img src="tampilan_androidStudio.png" width="200" />
-  <img src="tampilan_androidStudio1.png" width="200" />
+  <img src="tampilan_androidStudio.png" width="800" />
+  <img src="tampilan_androidStudio1.png" width="800" />
 </p>
 ---
 
