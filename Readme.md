@@ -36,7 +36,14 @@ tagged as favorite)
 [App was a based on Codelab "Project: Create a Bookshelf app" at developer.android](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf )
 
 ### ScreenShots
-
+<p style=float:left">
+  <img src="home.png" width="200" />
+  <img src="search_book.png" width="200" />
+  <img src="book.png" width="200" />
+</p>
+<p style=float:left">
+  <img src="Favorite_book.png" width="200" />
+</p>
 ---
 
 ref: codelab-bookshelf-app-android-kotlin-compose
