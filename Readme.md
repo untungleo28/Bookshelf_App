@@ -36,17 +36,7 @@ tagged as favorite)
 [App was a based on Codelab "Project: Create a Bookshelf app" at developer.android](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf )
 
 ### ScreenShots
-<p style=float:left">
-  <img src="screenshot_001.png" width="200" />
-  <img src="screenshot_02.png" width="200" />
-  <img src="screenshot_03.png" width="200" />
-</p>
-<p style=float:left">
-  <img src="screenshot_04.png" width="200" />
-  <img src="screenshot_05.png" width="200" />
-  <img src="screenshot_06.png" width="200" />
-  <img src="screenshot_07.png" width="200" />
-</p>
+
 ---
 
 ref: codelab-bookshelf-app-android-kotlin-compose
